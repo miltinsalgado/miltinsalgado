@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/miltinsalgado">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=miltinsalgado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=miltinsalgado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 ### Tecnologias que utilizo 🧑🏻‍💻 
@@ -30,5 +30,5 @@
   <a href="https://www.linkedin.com/in/milton-salgado-0630a1215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Minha Atividade ⌨️
- ![Snake animation](https://github.com/miltinsalgado/miltinsalgado/blob/output/github-contribution-grid-snake.svg)
+### Minha Atividade ⌨️ 
+![Snake animation](https://github.com/miltinsalgado/miltinsalgado/blob/output/github-contribution-grid-snake.svg)
