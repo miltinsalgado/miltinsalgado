@@ -8,12 +8,16 @@
 - ⚡ Fato engraçado: Sou Salgado mas sou feito de carne e osso 🤣
 
 ##
-<div align="center">
-  <a href="https://github.com/miltinsalgado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltinsalgado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&langs_count=7&theme=dracula">
-</div>
-  
+### Meus Stats 🤖📃
+  <!--
+    Links das APIS dos Stats
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  -->
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&theme=radical">
+  </div>
 
 ##
 ### Tecnologias que utilizo 🖥️🧑🏻‍💻 
