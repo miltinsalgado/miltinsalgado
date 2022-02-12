@@ -14,7 +14,7 @@
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   -->
-  <div align="center">
+  <div align-items="center" justify-content="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltinsalgado&layout=compact&theme=radical">
   </div>
