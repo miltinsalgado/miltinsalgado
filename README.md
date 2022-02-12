@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 Hoje sou formado em um curso técnico-integrado de ensino médio em **Desenvolvimento de Sistemas**
 - 📖 Atualmente, estou consolidando meus conhecimentos em **HTML** e **CSS**, assim como **HTML5** e **CSS3**. Quando terminar de estudar essas tecnologias, irei firmar meu aprendizado com **JavaScript** e seus frameworks e bibliotecas
-- 🏙️ Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins
+- 🏙️ Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins (em breve faculdade!)
 - 📫 Contate-me no e-mail: miltonsalgadoleandro@gmail.com
 - 😄 Apelidos e Pronomes: Miltinho, Miltão, ele/dele
 - ⚡ Fato engraçado: Sou Salgado mas sou feito de carne e osso 🤣
