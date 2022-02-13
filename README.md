@@ -1,4 +1,4 @@
-### Salve!👋 Me chamo Milton Salgado e seja muito bem vindo ou bem vinda ao meu perfil!
+### Olá! Me chamo Milton Salgado e seja muito bem vindo ou bem vinda ao meu perfil!👋🏻
 
 - 🧑🏻‍💻 Hoje sou formado em um curso técnico-integrado de ensino médio em **Desenvolvimento de Sistemas**
 - 📖 Atualmente, estou consolidando meus conhecimentos em **HTML** e **CSS**, assim como **HTML5** e **CSS3**. Quando terminar de estudar essas tecnologias, irei firmar meu aprendizado com **JavaScript** e seus frameworks e bibliotecas
