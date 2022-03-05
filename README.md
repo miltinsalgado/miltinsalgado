@@ -30,7 +30,14 @@
   <img align="center" alt="Miltin-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Miltin-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Miltin-SQLSever" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</div>
 
+
+##
+### Minhas IDES e Editores de Código ⌨️🖱️
+<div style="display: inline_block">
+  <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Miltin-VS2022" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
 ##
@@ -41,5 +48,5 @@
 </div>
 
 ##
-### Minha atividade ⌨️🖱️
+### Minha atividade 🏃🏻‍♂️✅
 ![Snake animation](https://github.com/miltinsalgado/miltinsalgado/blob/output/github-contribution-grid-snake.svg)
