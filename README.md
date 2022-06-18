@@ -12,7 +12,7 @@
 - ⚡ Fato engraçado: Sou Salgado mas sou feito de carne e osso 🤣
 
 ##
-### Meus Stats 🤖📃 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
+### 📃🤖 Meus Stats 🤖📃 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
   <!--
     Links das APIS dos Stats
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
