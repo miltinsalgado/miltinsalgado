@@ -14,7 +14,7 @@
 - ⚡ Fato engraçado: Sou Salgado mas sou feito de carne e osso 🤣
 
 ##
-### 📃🤖 Meus Stats no GitHub 🤖📃 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
+### 📃🤖 _Meus Stats no GitHub_ 🤖📃 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
   <!--
     Links das APIS dos Stats
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,7 +26,7 @@
   </div>
 
 ##
-### 🧑🏻‍💻🖥️ Tecnologias que utilizo 🖥️🧑🏻‍💻 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
+### 🧑🏻‍💻🖥️ _Tecnologias que utilizo_ 🖥️🧑🏻‍💻 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 <div style="display: inline_block">
   <img align="center" alt="Miltin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Miltin-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -40,19 +40,19 @@
 </div>
 
 ##
-### 🖱️⌨️ Meus Editores de Código, Plataformas e IDES ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
+### 🖱️⌨️ _Meus Editores de Código, Redes e IDES_ ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
 <div style="display: inline_block">
   <img align="center" alt="Miltin-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ##
-### 📨📧 Informações para contato 📧📨 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
+### 📨📧 _Informações para contato_ 📧📨 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 <div>
   <a href="mailto:miltonsalgadoleandro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milton-salgado-0630a1215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
-### ✅🏃🏻‍♂️ Minha atividade 🏃🏻‍♂️✅ <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
+### ✅🏃🏻‍♂️ _Minha atividade_ 🏃🏻‍♂️✅ <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 ![Snake animation](https://github.com/miltinsalgado/miltinsalgado/blob/output/github-contribution-grid-snake.svg)
