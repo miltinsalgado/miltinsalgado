@@ -35,7 +35,7 @@
   <img align="center" alt="Miltin-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Miltin-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Miltin-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="right" alt="Miltin-Icon" heigh ="50" width="50" src="https://user-images.githubusercontent.com/74269295/174420442-40985632-5a55-47f0-aa71-3ea2687014ea.png" />
+  <img align="right" alt="Miltin-Icon" heigh ="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/74269295/174420442-40985632-5a55-47f0-aa71-3ea2687014ea.png" />
 </div>
 
 
