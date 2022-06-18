@@ -40,7 +40,7 @@
 </div>
 
 ##
-### 🖱️⌨️ _Meus Editores de Código, IDES e Plataformas de Versionamento de Código_ ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
+### 🖱️⌨️ _Editores de Código, IDES e Plataformas de Versionamento de Código que utilizo_ ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
 <div style="display: inline_block">
   <img align="center" alt="Miltin-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
