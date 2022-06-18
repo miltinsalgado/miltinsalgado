@@ -3,6 +3,8 @@
 
 ### Olá! Me chamo Milton Salgado e seja muito bem vindo ou bem vinda ao meu perfil!👋🏻 <!-- Estilizado por Miltin -->
 
+<img align="right" alt="Miltin-Pic" height ="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/74269295/174420442-40985632-5a55-47f0-aa71-3ea2687014ea.png" />
+
 - 🧑🏻‍💻 Hoje sou formado pelo **Colégio Pedro II em Ensino Médio Técnico-Integrado em Desenvolvimento de Sistemas**.
 - 🏛️ Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
 - 📖 Atualmente, estou retomando meus estudos de **JS**, para futuramente dominar seus frameworks e bibliotecas e criar projetos WEB dinâmicos e animados.
@@ -35,9 +37,7 @@
   <img align="center" alt="Miltin-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Miltin-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Miltin-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="right" alt="Miltin-Icon" height ="150" style="border-radius: 50px;" src="https://user-images.githubusercontent.com/74269295/174420442-40985632-5a55-47f0-aa71-3ea2687014ea.png" />
 </div>
-
 
 ##
 ### 🖱️⌨️ Meus Editores de Código, Plataformas e IDES ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
