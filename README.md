@@ -1,15 +1,18 @@
+<!-- Template Criado unicamente por Miltin em 07/02/2022 -->
+<!-- Referências: Rafaella Ballerini -->
+
 ### Olá! Me chamo Milton Salgado e seja muito bem vindo ou bem vinda ao meu perfil!👋🏻 <!-- Estilizado por Miltin -->
 
 - 🧑🏻‍💻 Hoje sou formado pelo **Colégio Pedro II em Ensino Médio Técnico-Integrado em Desenvolvimento de Sistemas**.
-- 📚 Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
+- 🏛️ Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
 - 📖 Atualmente, estou retomando meus estudos de **JS**, para futuramente dominar seus frameworks e bibliotecas e criar projetos WEB dinâmicos e animados.
-- 🏙️ Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins.
+- 🔍 Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins.
 - 📫 Contate-me no e-mail: miltonsalgadoleandro@gmail.com.
 - 😄 Apelidos e Pronomes: Miltinho, Miltão, ele/dele, Tech, Dev.
 - ⚡ Fato engraçado: Sou Salgado mas sou feito de carne e osso 🤣
 
 ##
-### Meus Stats 🤖📃 <!-- Estilizado por Miltin -->
+### Meus Stats 🤖📃 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
   <!--
     Links das APIS dos Stats
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miltinsalgado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +24,7 @@
   </div>
 
 ##
-### Tecnologias que utilizo 🖥️🧑🏻‍💻 <!-- Estilizado por Miltin -->
+### 🧑🏻‍💻🖥️ Tecnologias que utilizo 🖥️🧑🏻‍💻 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 <div style="display: inline_block">
   <img align="center" alt="Miltin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Miltin-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -36,19 +39,19 @@
 
 
 ##
-### Minhas IDES e Editores de Código ⌨️🖱️ <!-- Estilizado por Miltin -->
+### 🖱️⌨️ Minhas IDES e Editores de Código ⌨️🖱️ <!-- Estilizado unicamente por Miltin em 07/02/2022  -->
 <div style="display: inline_block">
   <img align="center" alt="Miltin-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ##
-### Informações para contato 📧📨 <!-- Estilizado por Miltin -->
+### 📨📧 Informações para contato 📧📨 <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 <div>
   <a href="mailto:miltonsalgadoleandro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/milton-salgado-0630a1215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ##
-### Minha atividade 🏃🏻‍♂️✅ <!-- Estilizado por Miltin -->
+### ✅🏃🏻‍♂️ Minha atividade 🏃🏻‍♂️✅ <!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 ![Snake animation](https://github.com/miltinsalgado/miltinsalgado/blob/output/github-contribution-grid-snake.svg)
