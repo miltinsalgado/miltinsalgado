@@ -1,6 +1,8 @@
 <!-- Template Criado unicamente por Miltin em 07/02/2022 -->
 <!-- Referências: Rafaella Ballerini -->
 
+<img align="center" src="https://user-images.githubusercontent.com/74269295/175188703-79f904b5-7dff-4389-a987-e0cc8d7c7ff7.gif" width="100%">
+
 ### Olá! Me chamo Milton Salgado e seja muito bem vindo ou bem vinda ao meu perfil!👋🏻 <!-- Estilizado por Miltin -->
 
 <img align="right" alt="Miltin-Picture" height ="150" src="https://user-images.githubusercontent.com/74269295/174420442-40985632-5a55-47f0-aa71-3ea2687014ea.png" />
