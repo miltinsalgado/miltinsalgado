@@ -10,6 +10,7 @@
 - 👨‍💻 Hoje sou formado pelo **Colégio Pedro II em Ensino Médio Técnico-Integrado em Desenvolvimento de Sistemas**.
 - 🏛️ Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
 - 📖 Atualmente, estou retomando meus estudos de **JS**, para futuramente dominar seus frameworks e bibliotecas e criar projetos WEB dinâmicos e animados.
+- 🛠️ No dia 14/07/2022, comecei a utilizar a poderosa ferramenta **WordPress** em um projeto sobre _"Visibilidade nas Universidades Públicas"_, com duração aproximadade um ano.
 - 🔍 Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins.
 - 📫 Contate-me no e-mail: miltonsalgadoleandro@gmail.com.
 - 😄 Apelidos e Pronomes: Miltinho, Miltão, ele/dele, Tech, Dev.
@@ -30,24 +31,37 @@
 ##
 ### 🚀 Tecnologias que utilizo 🚀<!-- Estilizado unicamente por Miltin em 07/02/2022 -->
 <div style="display: inline_block">
-  <img align="center" alt="Miltin-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Miltin-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Miltin-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Miltin-PHP" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Miltin-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img align="center" alt="Miltin-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img align="center" alt="Miltin-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Miltin-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" alt="Miltin-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Miltin-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  &nbsp;
+  <img align="center" alt="Miltin-Cpp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+  &nbsp;
+  <img align="center" alt="Miltin-CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  &nbsp;
+  <img align="center" alt="Miltin-SQLServer" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  &nbsp;
+  <img align="center" alt="Miltin-WordPress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 ##
 ### 💻 Editores de Código, IDES e Plataformas de Versionamento de Código que utilizo 💻<!-- Estilizado unicamente por Miltin em 07/02/2022  -->
 <div style="display: inline_block">
-  <img align="center" alt="Miltin-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Miltin-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Miltin-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img align="center" alt="Miltin-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Miltin-VS" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  &nbsp;
+  <img align="center" alt="Miltin-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  &nbsp;
+  <img align="center" alt="Miltin-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
 ##
