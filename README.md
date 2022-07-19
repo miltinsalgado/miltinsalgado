@@ -10,7 +10,7 @@
 - 👨‍💻 Hoje sou formado pelo **Colégio Pedro II em Ensino Médio Técnico-Integrado em Desenvolvimento de Sistemas**.
 - 🏛️ Cursando **Bacharelado em Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) - 1° Período**;
 - 📖 Atualmente, estou retomando meus estudos de **JS**, para futuramente dominar seus frameworks e bibliotecas e criar projetos WEB dinâmicos e animados.
-- 🛠️ No dia 14/07/2022, comecei a utilizar a poderosa ferramenta **WordPress** em um projeto sobre _"Visibilidade nas Universidades Públicas"_, com duração aproximadade um ano.
+- 🛠️ No dia 14/07/2022, comecei a utilizar a poderosa ferramenta **WordPress** em um projeto universitário sobre _"Visibilidade nas Universidades Públicas"_, com duração aproximadade um ano.
 - 🔍 Estou à procura de um emprego ou estágio na área de Desenvolvimento WEB e afins.
 - 📫 Contate-me no e-mail: miltonsalgadoleandro@gmail.com.
 - 😄 Apelidos e Pronomes: Miltinho, Miltão, ele/dele, Tech, Dev.
