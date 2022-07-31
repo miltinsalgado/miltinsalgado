@@ -37,6 +37,8 @@
   &nbsp;
   <img align="center" alt="Miltin-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   &nbsp;
+  <img align="center" alt="Miltin-JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+  &nbsp;
   <img align="center" alt="Miltin-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   &nbsp;
   <img align="center" alt="Miltin-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
